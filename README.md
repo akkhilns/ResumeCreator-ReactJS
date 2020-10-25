@@ -1,5 +1,5 @@
 # Demo
-Open [https://akhilns2.herokuapp.com](https://akhilns2.herokuapp.com) to view it in the browser.
+Open [http://akhilns2.herokuapp.com](http://akhilns2.herokuapp.com) to view it in the browser.
 
 # Getting Started with Create React App
 
